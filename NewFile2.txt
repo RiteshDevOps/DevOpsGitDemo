@@ -1,1 +1,2 @@
 This is the first line of code in newfile2
+This is the second line of code
