@@ -1,0 +1,1 @@
+This is first line into NewFile4.txt
